@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id":0,
+      "tipo-Documento":"DNI",
+      "documento": 72715796,
+      "celular": 945566678,
+      "placa": "ASD-123",
+      "auto": ""
+    },
+    {
+      "id":1,
+      "tipo-Documento":"Pasaporte",
+      "documento": 123123123,
+      "celular": 945566678,
+      "placa": "QWE-123",
+      "auto": ""
+    }
+  ]
+}
