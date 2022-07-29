@@ -1,20 +1,28 @@
 {
   "users": [
     {
-      "id":0,
-      "tipo-Documento":"DNI",
-      "documento": 72715796,
-      "celular": 945566678,
-      "placa": "ASD-123",
-      "auto": ""
+      "tipo-documento": "DNI",
+      "documento": "72715796",
+      "celular": "123123123",
+      "placa": "123-123",
+      "nombre": "Pedro",
+      "auto": "Mercedez-Benz",
+      "modelo-auto": "A7",
+      "año-auto": 2012,
+      "correo": "Pedro@gmail.com",
+      "id": 0
     },
     {
-      "id":1,
-      "tipo-Documento":"Pasaporte",
-      "documento": 123123123,
-      "celular": 945566678,
-      "placa": "QWE-123",
-      "auto": ""
+      "tipo-documento": "DNI",
+      "documento": "09054334",
+      "celular": "998475756",
+      "placa": "XYZ-231",
+      "nombre": "Sara",
+      "auto": "Mercedez-Benz",
+      "modelo-auto": "X4",
+      "año-auto": 2012,
+      "correo": "Sara@gmail.com",
+      "id": 1
     }
   ]
 }
